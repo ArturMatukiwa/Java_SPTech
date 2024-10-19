@@ -1,1 +1,1 @@
-# Java_SPTech
+### Repositório com aulas, exercícios e provas realizadas em Java na SPTech pelo 2º semestre
